@@ -6,7 +6,7 @@
 
 ## Запуск
 1) Установить зависимости из requirements.txt
-  pip install -r requirements.txt
+
 2) В файле .env указать данные
 
 3)python app.py

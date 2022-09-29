@@ -1,0 +1,7 @@
+aiogram<3.0
+environs~=8.0.0
+aiosqlite
+databases~=0.6.0
+orm~=0.3.1
+aiohttp~=3.8.1
+aiofile~=3.7.4

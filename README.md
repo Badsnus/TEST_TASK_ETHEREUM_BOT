@@ -9,4 +9,4 @@
 
 2) В файле .env указать данные
 
-3)python app.py
+3) python app.py
